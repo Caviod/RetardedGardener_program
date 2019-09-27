@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <JLinkDriver>
+        <CStepIntDis>_ 0</CStepIntDis>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+    </JLinkDriver>
+    <DebugChecksum>
+        <Checksum>1585608014</Checksum>
+    </DebugChecksum>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <CodeCoverage>
+        <Enabled>_ 0</Enabled>
+    </CodeCoverage>
+    <Disassembly>
+        <InstrCount>0</InstrCount>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <watch_formats>
+        <Fmt0>{W}42:SendRunModeCount	3	0</Fmt0>
+    </watch_formats>
+    <Trace1>
+        <Enabled>0</Enabled>
+        <ShowSource>1</ShowSource>
+    </Trace1>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <DriverProfiling>
+        <Enabled>0</Enabled>
+        <Mode>1</Mode>
+        <Graph>0</Graph>
+        <Symbiont>0</Symbiont>
+        <Exclusions />
+    </DriverProfiling>
+    <CallStackLog>
+        <Enabled>0</Enabled>
+    </CallStackLog>
+    <CallStackStripe>
+        <ShowTiming>1</ShowTiming>
+    </CallStackStripe>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <DisassembleMode>
+        <mode>0</mode>
+    </DisassembleMode>
+    <Breakpoints2>
+        <Count>0</Count>
+    </Breakpoints2>
+    <Aliases>
+        <A0>_ "C:\Users\cyfch\Desktop\RetardedGardener11.1\Chip\src\IAR\system_MK60DZ10.c" ""</A0>
+        <A1>_ "C:\Users\cyfch\Desktop\RetardedGardener11.5 - 副本\Chip\src\IAR\system_MK60DZ10.c" ""</A1>
+        <A2>_ "C:\Users\cyfch\Desktop\纯试车版本\Chip\src\IAR\system_MK60DZ10.c" ""</A2>
+        <A3>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\App\MK60_conf.c" ""</A3>
+        <A4>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\App\MPU6050Drive.c" ""</A4>
+        <A5>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\App\chassis_get_control.c" ""</A5>
+        <A6>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\App\main.c" ""</A6>
+        <A7>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\Board\src\LCD12864.c" ""</A7>
+        <A8>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\Board\src\VCAN_LED.C" ""</A8>
+        <A9>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\Chip\src\MK60_SysTick.c" ""</A9>
+        <A10>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\Chip\src\MK60_uart.c" ""</A10>
+        <A11>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\Chip\src\MK60_wdog.c" ""</A11>
+        <A12>_ "D:\智能车\创意组\chengxu\RetardedGardener11.0 航姿推测移植整定，控制关状态\Lib\CMSIS\Inc\core_cm4.h" ""</A12>
+        <Count>13</Count>
+        <SuppressDialog>1</SuppressDialog>
+    </Aliases>
+</settings>

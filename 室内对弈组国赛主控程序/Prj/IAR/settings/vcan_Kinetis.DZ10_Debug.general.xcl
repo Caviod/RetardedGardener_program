@@ -1,0 +1,17 @@
+"E:\iar\arm\bin\armproc.dll" 
+
+"E:\iar\arm\bin\armjlink2.dll" 
+
+"C:\Users\cyfch\Desktop\纯试车版本（改了昨晚的pid）\Prj\IAR\DZ10_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin="E:\iar\arm\bin\armbat.dll" 
+
+--device_macro="E:\iar\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="E:\iar\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="E:\iar\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+

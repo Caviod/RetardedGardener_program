@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vcan_Kinetis", "vcan_Kinetis.vcxproj", "{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FN15_Debug|Win32.ActiveCfg = FN15_Debug|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FN15_Debug|Win32.Build.0 = FN15_Debug|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FN15_Release|Win32.ActiveCfg = FN15_Release|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FN15_Release|Win32.Build.0 = FN15_Release|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FX15_Debug|Win32.ActiveCfg = FX15_Debug|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FX15_Debug|Win32.Build.0 = FX15_Debug|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FX15_Release|Win32.ActiveCfg = FX15_Release|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.FX15_Release|Win32.Build.0 = FX15_Release|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.DZ10_Debug|Win32.ActiveCfg = DZ10_Debug|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.DZ10_Debug|Win32.Build.0 = DZ10_Debug|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.DZ10_Release|Win32.ActiveCfg = DZ10_Release|Win32
+		{41f3ee9f-de72-4118-67e4-f57ddb1c1b1b}.DZ10_Release|Win32.Build.0 = DZ10_Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
